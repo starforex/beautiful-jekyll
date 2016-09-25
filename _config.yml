@@ -17,7 +17,7 @@ baseurl: ""
 title: Forex Trade
 
 # Short description of your site
-description: Trader's memo
+description: Trade memo
 
 # --- Navigation bar options --- #
 
@@ -39,10 +39,10 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: piaasol
+  name: starforex
   email: "piaasol@gmail.com"
-  facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
+  facebook: starforex  # eg. daattali
+  github: starforex    # eg. daattali
   twitter: yourname   # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: yourname  # eg. daattali
@@ -78,7 +78,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "starforex.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
