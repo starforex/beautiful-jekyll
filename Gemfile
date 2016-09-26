@@ -6,5 +6,5 @@ gem 'github-pages'
 gem 'jekyll-paginate'
 gem 'hpricot'
 gem 'open_uri_redirections'
-gem 'jekyll-admin',group: :jekyll_plugins
+gem 'jekyll-admin', group: :jekyll_plugins
 
