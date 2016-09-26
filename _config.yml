@@ -81,7 +81,7 @@ share-links-active:
 url-pretty: "starforex.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
-
+{{ post.excerpt | remove: '<p>' | remove: '</p>' }}
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 disqus: "seheechang"
 
